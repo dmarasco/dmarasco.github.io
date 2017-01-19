@@ -6,7 +6,7 @@
 name: Daniel E Marasco
 
 # Short bio or description (displayed in the header)
-description: Civil Engineer/Data Scientist, AAAS Science & Technology Policy Fellow: Data Analytics Engine at Department of Homeland Security, Science & Technology Directorate, previously Columbia, NYU CUSP
+description: Civil Engineer/Data Scientist, AAAS Science & Technology Policy Fellow, Data Analytics Engine at Department of Homeland Security, Science & Technology Directorate, previously Columbia, NYU CUSP
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars1.githubusercontent.com/u/9220478?v=3&u=6127202b116473a46d72b5377fea548fb4865a6b&s=400
@@ -26,7 +26,7 @@ footer-links:
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
+  twitter: DanMarasco
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
